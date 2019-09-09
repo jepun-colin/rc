@@ -1,0 +1,7 @@
+{
+  "name": "rc",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
